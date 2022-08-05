@@ -1,0 +1,15 @@
+epoch = 0
+time = 4.0000 MIN 6.5870 SEC, total time = 4.0000 Min 6.5870 SEC
+training loss : 0.12600462277154414  train acc = 0.2792270531400966
+val loss : 0.1069563127859779  val acc = 0.391304347826087
+============================
+epoch = 1
+time = 4.0000 MIN 11.9209 SEC, total time = 8.0000 Min 18.5496 SEC
+training loss : 0.10623822848002117  train acc = 0.4107246376811594
+val loss : 0.09741180697213049  val acc = 0.4508695652173913
+============================
+epoch = 2
+time = 5.0000 MIN 12.4073 SEC, total time = 13.0000 Min 30.9939 SEC
+training loss : 0.09660207753884044  train acc = 0.4628985507246377
+val loss : 0.0920652696619863  val acc = 0.48782608695652174
+============================
